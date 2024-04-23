@@ -1,4 +1,4 @@
-<img align="center" width="1200"  alt="Coding" src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif"/>
+<img align="center" width="1200"  alt="Coding" src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif"/>
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A Web developer from Algeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
