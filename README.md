@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Zakaria Boulsane</h1>
-<h3 align="center">Full Stack Developer | Web Solutions Architect | UI/UX Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Cloud Solutions Specialist | Database Architect</h3>
 
 <p align="center">
   <a href="https://zakaria-bls.github.io/Portfolio/" target="_blank">Portfolio</a> •
@@ -7,45 +7,50 @@
   <a href="https://linkedin.com/in/zakaria-boulsane-a6044a21b" target="_blank">LinkedIn</a>
 </p>
 
-<img align="right" alt="Web Development" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
+<img align="right" alt="Cloud Development" width="400" src="https://cdn.dribbble.com/users/530732/screenshots/15239430/media/7e0a0b2c60a6345b1e9d0b8e5e6e4b4a.gif"/>
 
 ### 🚀 About Me
 
-I'm a passionate full-stack developer from Algeria specializing in building modern, responsive web applications. With a keen eye for design and robust backend architecture, I create seamless digital experiences that solve real-world problems.
+I'm a cloud-focused full-stack developer from Algeria, specializing in building scalable web applications with optimized database architectures. I bridge the gap between frontend interfaces and robust backend systems with cloud solutions.
 
-- 🔭 **Current Focus:** Developing enterprise-grade web applications
-- 🌱 **Mastering:** Advanced React patterns & Node.js optimization
-- 💡 **Passions:** Clean code architecture, UI/UX design, Web Performance
-- 🎯 **Goal:** Build scalable solutions for Algerian tech startups
-- ⚡ **Fun Fact:** I can debug CSS just by looking at the webpage 😎
+- 🔭 **Current Focus:** Building cloud-native applications
+- 🌱 **Mastering:** Advanced database optimization techniques
+- 💡 **Passions:** Cloud infrastructure, Database design, Performance tuning
+- 🎯 **Goal:** Develop high-traffic web platforms for African markets
+- ⚡ **Fun Fact:** I can mentally visualize database schemas before writing code
 
 ### 🛠 Web Development Stack
 
 **Frontend Expertise:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Backend Systems:**  
+**Cloud & Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-**Database Mastery:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Database Systems:**  
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Design & Tools:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### ☁️ Cloud & Database Specialization
+- **MongoDB Atlas** - Managed cloud database deployments
+- **MySQL** - Optimized relational database architectures
+- **Cloudflare** - Application security and CDN configurations
+- **Database Migration** - Seamless transitions between database systems
 
 ### 🏗️ Current Projects
-- **E-commerce Platform** (React + Node.js + MongoDB)
-- **Admin Dashboard Template** (Next.js + Tailwind)
-- **Algerian Startup Directory** (.NET Core + PostgreSQL)
+- **E-commerce Platform** (Next.js + MongoDB Atlas + Cloudflare)
+- **Analytics Dashboard** (React + MySQL + Node.js)
+- **Content Delivery Network** (Cloudflare Workers + Edge Computing)
 
 ### 📈 GitHub Stats
 
@@ -68,6 +73,6 @@ I'm a passionate full-stack developer from Algeria specializing in building mode
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:zakariaboulsane@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
