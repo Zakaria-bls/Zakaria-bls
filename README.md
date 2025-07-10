@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://zakaria-bls.github.io/Portfolio/" target="_blank">Portfolio</a> •
+  <a href="https://zakaria-bls.github.io/portfolio/" target="_blank">Portfolio</a> •
   <a href="mailto:zakariaboulsane@gmail.com">Contact</a> •
   <a href="https://linkedin.com/in/zakaria-boulsane-a6044a21b" target="_blank">LinkedIn</a>
 </p>
