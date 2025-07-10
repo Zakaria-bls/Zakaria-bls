@@ -7,8 +7,7 @@
   <a href="https://linkedin.com/in/zakaria-boulsane-a6044a21b" target="_blank">LinkedIn</a>
 </p>
 
-<img align="right" alt="Cloud Development" width="400" src="https://cdn.dribbble.com/users/530732/screenshots/15239430/media/7e0a0b2c60a6345b1e9d0b8e5e6e4b4a.gif"/>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 ### 🚀 About Me
 
 I'm a cloud-focused full-stack developer from Algeria, specializing in building scalable web applications with optimized database architectures. I bridge the gap between frontend interfaces and robust backend systems with cloud solutions.
